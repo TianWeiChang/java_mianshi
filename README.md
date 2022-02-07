@@ -19,4 +19,58 @@
 - MySQL
 - Zookeeper
 
+## Java基础
+
+todo
+
+## JVM
+
+todo
+
+## 并发编程
+
+todo
+
+## 性能优化
+
+todo
+
+## 算法
+
+todo
+
+## Spring
+
+todo
+
+## Spring Boot
+
+todo
+
+## Spring Cloud
+
+todo
+
+## MyBatis
+
+todo
+
+## Redis
+
+todo
+
+## Dubbo
+
+todo
+
+## MySQL
+
+todo
+
+## Zookeeper
+
+todo
+
+
+
 
