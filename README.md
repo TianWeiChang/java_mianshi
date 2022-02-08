@@ -25,7 +25,7 @@ todo
 
 ## JVM
 
-todo
+- [程序员必备：JVM面试题](https://mp.weixin.qq.com/s/-t4KGBS3M0lfxKqjgcsrsQ)
 
 ## 并发编程
 
@@ -41,7 +41,7 @@ todo
 
 ## Spring
 
-todo
+- [面试官：Spring相关注解，你知道哪些？](https://mp.weixin.qq.com/s/FI8XFf2xZUM4nyDxnHK4SQ)
 
 ## Spring Boot
 
