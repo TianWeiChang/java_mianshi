@@ -42,6 +42,9 @@ todo
 ## Spring
 
 - [面试官：Spring相关注解，你知道哪些？](https://mp.weixin.qq.com/s/FI8XFf2xZUM4nyDxnHK4SQ)
+- [面试官：Spring 注解 @After、@Around、@Before 的执行顺序是？](https://mp.weixin.qq.com/s/_OLsFgDGoab__96fWpJ29Q)
+- [面试官：Spring的@Transactional如何实现的?](https://mp.weixin.qq.com/s/jU7BF9KEPWTQNS8bAhuZqg)
+
 
 ## Spring Boot
 
