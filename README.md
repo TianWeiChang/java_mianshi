@@ -19,6 +19,10 @@
 - MySQL
 - Zookeeper
 
+## 面经
+
+- [小米Java实习面试（通过）](https://mp.weixin.qq.com/s/RoisEgwDRVITUY5N7UqrSQ)
+
 ## Java基础
 
 todo
