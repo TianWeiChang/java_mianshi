@@ -27,6 +27,15 @@
 
 - [面试官 | 为什么不建议使用实数作为 HashMap 的 key？](https://mp.weixin.qq.com/s/5Jw2U8GnxkcFQ0qt3dbRCA)
 - [美团HashMap 面试6连问，高手过招，招招致命！](https://mp.weixin.qq.com/s/Q3f4dLTnwUgk6_geFqi0hw)
+- [面试官：Java反射到底慢在哪？幸亏我看过这个知识点](https://mp.weixin.qq.com/s/bRzu_KbISQ3pENWnSyDpsA)
+- [求职与面试：Java必备](https://mp.weixin.qq.com/s/IuLLRsQ9lKhYzecN2TtjcA)
+- [美团面试题：String s = new String("111")会创建几个对象？](https://mp.weixin.qq.com/s/fuo5gqPU7z6wGwSikgk61w)
+- [谈谈final、finally、finalize有什么不同？](https://mp.weixin.qq.com/s/YffhvcF-eZ1zjjEaiHZgRw)
+- [NoClassDefFoundError 和 ClassNotFoundException 有什么区别？](https://mp.weixin.qq.com/s/StID6elRbBJmdtI1Xe5XUQ)
+- [Java反射机制总结](https://mp.weixin.qq.com/s/xMf2mltgxOB1-jdsV4lAOA)
+- [Java 到底是值传递还是引用传递？](https://mp.weixin.qq.com/s/W_K2iRmeZ-mWcW14t0RH_w)
+- [40个Java集合面试问题和答案](https://mp.weixin.qq.com/s/OsCXAWV9l6-cJ_bCkKfLWg)
+- [你必须掌握的 21 个 Java 核心技术！](https://mp.weixin.qq.com/s/G1FBcKhGAKcudkkjVGFqAg)
 
 ## JVM
 
@@ -51,6 +60,7 @@ todo
 - [面试官：Spring相关注解，你知道哪些？](https://mp.weixin.qq.com/s/FI8XFf2xZUM4nyDxnHK4SQ)
 - [面试官：Spring 注解 @After、@Around、@Before 的执行顺序是？](https://mp.weixin.qq.com/s/_OLsFgDGoab__96fWpJ29Q)
 - [面试官：Spring的@Transactional如何实现的?](https://mp.weixin.qq.com/s/jU7BF9KEPWTQNS8bAhuZqg)
+- [史上最全 69 道 Spring 面试题和答案](https://mp.weixin.qq.com/s/PKQ6YEtRKHszZ9xk6ccCgQ)
 
 
 ## Spring Boot
@@ -63,11 +73,12 @@ todo
 
 ## MyBatis
 
-todo
+- [说说MyBatis的SQL执行流程](https://mp.weixin.qq.com/s/T8icYNj6ddomRI0V9qVe_w)
 
 ## Redis
 
 - [面试官：Redis如何实现延迟队列？](https://mp.weixin.qq.com/s/Iv2FCMuF8fJNPpufIKu5lA)
+- [Redis 面试题，汇总](https://mp.weixin.qq.com/s/X8Pp8CkHuMaMf5r6GPfT_g)
 
 ## Dubbo
 
@@ -75,7 +86,7 @@ todo
 
 ## MySQL
 
-todo
+- [最全91道MySQL面试题 | 附答案解析](https://mp.weixin.qq.com/s/_xSnusCWVTt1dkNx7HWNfw)
 
 ## Zookeeper
 
@@ -87,5 +98,12 @@ todo
 - [如何设计 高性能系统 ？](https://mp.weixin.qq.com/s/MiE6Jvbfdz1EYxkO60CZ_Q)
 
 
+## 大数据处理
+- [如何快速判断某URL是否在20亿的网址URL集合中？](https://mp.weixin.qq.com/s/_11Vy2R9HN-DnI7NKgDDaQ)
 
+## 职业规划
+- [程序员必备的 58 个网站](https://mp.weixin.qq.com/s/T8icYNj6ddomRI0V9qVe_w)
+
+
+https://mp.weixin.qq.com/s/2nvM3KgxDQ8xKRZfRhXwzg
 
