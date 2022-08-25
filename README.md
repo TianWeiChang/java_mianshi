@@ -3,15 +3,12 @@
 作者：田哥
 
 公众号1：java后端技术全栈
+
 公众号2：面试专栏
 
 知识星球：[进入星球](https://wx.zsxq.com/mweb/views/joingroup/join_group.html?group_id=48418244881248&coupon_code=w0gcag8o&inviter_id=48254485428118&keyword=05FEm6myz)
 
-## 学习手册
-
-[学习手册](https://github.com/TianWeiChang/java_mianshi/blob/main/%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C)
-
-## 包含内容
+## 主要内容
 - Java基础
 - JVM
 - 并发编程
