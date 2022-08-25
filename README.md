@@ -142,6 +142,31 @@ todo
 
 - [面试官：单例模式有几种写法？](https://mp.weixin.qq.com/s/GAFP3-5eqLscBuzGx_dVkQ)
 
+- [观察者模式](http://mp.weixin.qq.com/s?__biz=MzU4MDM3MDgyMA==&mid=2247502938&idx=1&sn=1042c8c297a7c92f5437bfbaaf2072eb&chksm=fd5564b1ca22eda7a8dc765c57b3c09d4c16f1a43d34fe0202ff8fa9b3ee55a4b529ce18c506#rd) 
+
+- [泡图书馆，我想到了 享元模式](http://mp.weixin.qq.com/s?__biz=MzU4MDM3MDgyMA==&mid=2247502579&idx=1&sn=95748f7a1e95210eb59391bb23dfbd28&chksm=fd556218ca22eb0e3e992f718d890a0a09878447fa24d1a2ebe4d491141d79d8ebdb1c603125#rd) 
+
+- [五分钟 掌握 原型模式 （文末送书）](http://mp.weixin.qq.com/s?__biz=MzU4MDM3MDgyMA==&mid=2247502331&idx=1&sn=270c62edcdabaaeea4539432db13a6e0&chksm=fd556110ca22e8068dc195d5fb168d2a6b54e6cf4b7b6c068b35aae948ca6eb76986dd67eded#rd) 
+
+- [三国演义：责任链模式](http://mp.weixin.qq.com/s?__biz=MzU4MDM3MDgyMA==&mid=2247502268&idx=1&sn=bc2163d6d43437b5bc9a0faf90e0c8ae&chksm=fd556157ca22e841a91f32c6363a6c40c0f5230d17c9f292535f0ad654faf52c9a1515e17391#rd) 
+
+- [韩信拜将：委派模式](http://mp.weixin.qq.com/s?__biz=MzU4MDM3MDgyMA==&mid=2247502226&idx=2&sn=4a6d2f587aa85dbafb65f09637d43399&chksm=fd556179ca22e86ffd5bd51170b6e741ace7eda1c40014028aba76571696b58603c4dfbc9141#rd) 
+
+- [3年工作必备 装饰器模式](http://mp.weixin.qq.com/s?__biz=MzU4MDM3MDgyMA==&mid=2247502190&idx=1&sn=f2a0bed4221c94ecd2b1c7f86ca241a6&chksm=fd556185ca22e8935b44237c4eef1713a46dac081d717888d284afe2cd34d2f1702f9c34d488#rd) 
+
+- [工作五年了，居然还不懂 门面模式！附粉丝福利](http://mp.weixin.qq.com/s?__biz=MzU4MDM3MDgyMA==&mid=2247502156&idx=2&sn=ae339249cbe927e888a7f11bd621b941&chksm=fd5561a7ca22e8b1b82f74d095e011b4cb293ebe545603466bee7863a4d8fd3236bb776b8cca#rd) 
+
+- [点外卖，让我想起了 策略模式【原创】](http://mp.weixin.qq.com/s?__biz=MzU4MDM3MDgyMA==&mid=2247502014&idx=1&sn=047bbd4a87cd5ee7c034c1a17c69197b&chksm=fd556055ca22e943c4d2bd59677c1dcc1e064b075bcdd55e16c1bf27c4a7a835ae4e1b558125#rd) 
+
+- [设计模式 | 五分钟学【模板方法】模式](http://mp.weixin.qq.com/s?__biz=MzU4MDM3MDgyMA==&mid=2247497619&idx=1&sn=f9477b17d9fb5f662f594ae48c38f621&chksm=fd555f78ca22d66e9feb23f62fc705dfbe9aa9513d5f729230e4b2c76ef8fdbbb81411a37450#rd) 
+
+- [初级必备：单例模式的7个问题](http://mp.weixin.qq.com/s?__biz=MzU4MDM3MDgyMA==&mid=2247501975&idx=1&sn=26f396ad0f4822e81c76ee7d5a400165&chksm=fd55607cca22e96a90afc10d239c6fb92286d8ede031e64768d5a8d2489ed76f076ead891ab0#rd) 
+
+- [面试官：策略模式和代理模式有什么区别?](http://mp.weixin.qq.com/s?__biz=MzU4MDM3MDgyMA==&mid=2247509948&idx=1&sn=3aecee402f111a08c1eec920265a42f5&chksm=fd550f57ca2286411d0c3fd0d27bb530f3e10a110eedfd43dba20ef0602c91b724c68646860a#rd) 
+
+- ["设计模式我学过呀，就是没用过"](http://mp.weixin.qq.com/s?__biz=MzU4MDM3MDgyMA==&mid=2247499998&idx=1&sn=54dca0a73a675f18e63b857cde48effe&chksm=fd556835ca22e123a0d05d03e55c9a335c65687a29443cc82f2e304555dc4b5766f5f31b599d#rd) 
+
+- [阿里大佬告诉我，想学习设计模式，得先学好这些硬核技能](http://mp.weixin.qq.com/s?__biz=MzU4MDM3MDgyMA==&mid=2247500146&idx=1&sn=83a30b43b77d96e030a71b6f06f78d8b&chksm=fd556999ca22e08f5887234c7e8306f76f17b3aa5c63b5609440e4fd4489f9879d8d0d581985#rd) 
 
 ## 大数据处理
 - [如何快速判断某URL是否在20亿的网址URL集合中？](https://mp.weixin.qq.com/s/_11Vy2R9HN-DnI7NKgDDaQ)
