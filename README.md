@@ -23,6 +23,7 @@
 - MySQL
 - Zookeeper
 - RabbitMQ
+- tomcat
 
 ## 面经
 
@@ -59,10 +60,12 @@
 - [面试官：说说JVM中的ZGC垃圾收集器](https://mp.weixin.qq.com/s/6TO8TKQcML8KMaGhX7Qw5A)
 
 ## 并发编程
-
+- [你对Thread掌握多少？幸好我准备了](https://mp.weixin.qq.com/s/fgpHvUPP7AS7vk4ojbX5Bw)
 - [面试官问：ThreadLocal如何实现线程本地化存储的？](https://mp.weixin.qq.com/s/GnaQK-ssifZJ7fwoboSbwQ)
+- [拿捏AQS，只需要搞定10个点！](https://mp.weixin.qq.com/s/uPQgAXZ1GcBCrpWSnfm-CA)
 - [你能说说进程与线程的区别吗](https://mp.weixin.qq.com/s/x8kexjUb7L3sVS7xqCzcBw)
 - [8种内存泄露的场景，大部分人只知道4种，你知道几种？](https://mp.weixin.qq.com/s/-H4GLKlZmdq7bPlaPdufDw)
+- [50000多字，线程池源码详解！建议收藏](https://mp.weixin.qq.com/s/2ku8qIQqA1GriEUB1v3Evw)
 - [面试官：谈谈你对Java线程安全与不安全的理解](https://mp.weixin.qq.com/s/_rUtToq0cDYlKtphFIdc7g)
 - [并发编程面试题（2021最新版）](https://mp.weixin.qq.com/s/Z5fsP2IgNqgbTt9aaWr9Eg)
 
@@ -106,6 +109,7 @@ todo
 ## RabbitMQ
 - [RabbitMQ面试题必知必会29道](https://mp.weixin.qq.com/s/MxT8wCjbZA5q8JDR0inDdg)
 - [消息队列中，如何保证消息的顺序性？](https://mp.weixin.qq.com/s/ZlCrDTJfqBRoGBdsbaR9vw)
+- [面试官：实现延时消息的方案有几种？](https://mp.weixin.qq.com/s/xZvE6k5USC28XLiGJYmflQ)
 
 ## Dubbo
 
@@ -116,7 +120,9 @@ todo
 
 - [最全91道MySQL面试题 | 附答案解析](https://mp.weixin.qq.com/s/_xSnusCWVTt1dkNx7HWNfw)
 - [面试官：MySQL的可重复读级别能解决幻读问题吗？](https://mp.weixin.qq.com/s/skWeWSNT37S4NjCEoLhUsA)
+- [学习 MySQL 需要知道的 28 个小技巧](https://mp.weixin.qq.com/s/jdv8wuciCDU6ywUzqasIOQ)
 - [MySQL如何实现可重复读、又为什么会出现幻读、是否解决了幻读问题？](https://mp.weixin.qq.com/s/-MQKCIdNP4YEGTjC7lchqg)
+- [面试官：MySQL 是如何实现 ACID 的?](https://mp.weixin.qq.com/s/ChjqGzOACwi0R7YmZq2YJA)
 
 ## Zookeeper
 
@@ -126,12 +132,16 @@ todo
 
 - [分布式定时任务框架选型，写得太好了！](https://mp.weixin.qq.com/s/LG_D43AwpIZD1n9Q2PtI1Q)
 - [如何设计 高性能系统 ？](https://mp.weixin.qq.com/s/MiE6Jvbfdz1EYxkO60CZ_Q)
+- [10种软件架构模式，你知道几种？](https://mp.weixin.qq.com/s/1SHkeGAaqTYUypTKh-uMMw)
 - [分库分表之后，id 主键如何处理？](https://mp.weixin.qq.com/s/mD2E6kYPNKEc9RM74ytOKg)
+- [后端技术大全（69个点）！](https://mp.weixin.qq.com/s/nUafg5vCg9YZFu2nttSeKw)
 - [面试官：线上系统CPU飙高怎么办？](https://mp.weixin.qq.com/s/ZKxeXPdJOFJdPRpt0vDz_Q)
+- [如何设计一个支付系统？](https://mp.weixin.qq.com/s/7iVKnOLCzUoVOmGMjXqYQw)
 
 ## 设计模式
 
 - [面试官：单例模式有几种写法？](https://mp.weixin.qq.com/s/GAFP3-5eqLscBuzGx_dVkQ)
+
 
 ## 大数据处理
 - [如何快速判断某URL是否在20亿的网址URL集合中？](https://mp.weixin.qq.com/s/_11Vy2R9HN-DnI7NKgDDaQ)
@@ -144,5 +154,10 @@ todo
 - [TCP协议面试10连问，网友直呼太强！](https://mp.weixin.qq.com/s/EX7yOffpX3TflhrKb3cluA)
 - [TCP协议的12连环炮，我只能扛住3个](https://mp.weixin.qq.com/s/CxhhIOhV7O_tvQzBoNjIyA)
 
-https://mp.weixin.qq.com/s/2nvM3KgxDQ8xKRZfRhXwzg
+## tomcat
+- [面试官：tomcat 类加载器为什么要违背双亲委派模型？](https://mp.weixin.qq.com/s/7NntNBQUo7rTBO5ga1npFA)
+
+## 性能优化
+- [通宵整理：后端接口优化的14个技巧！](https://mp.weixin.qq.com/s/RL7q68L15WJPg4uWDukGwg)
+
 
