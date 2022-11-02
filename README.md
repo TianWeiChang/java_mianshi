@@ -6,7 +6,7 @@
 
 公众号2：面试专栏
 
-知识星球：[进入星球](https://wx.zsxq.com/mweb/views/joingroup/join_group.html?group_id=48418244881248&coupon_code=w0gcag8o&inviter_id=48254485428118&keyword=05FEm6myz)
+在线刷题：[在线刷题神器](http://woaijava.cc/mianshi/index)
 
 ## 主要内容
 - Java基础
@@ -478,4 +478,249 @@ todo
 ## 性能优化
 - [通宵整理：后端接口优化的14个技巧！](https://mp.weixin.qq.com/s/RL7q68L15WJPg4uWDukGwg)
 
+## 知识星球
+
+Dubbo服务发布流程图：https://t.zsxq.com/06ZR7EMZn
+
+手写rpc框架：https://t.zsxq.com/06maAqVjM
+
+项目太烂，面试拿不出手，怎么办？https://t.zsxq.com/06zjEuvBa
+
+《面试小抄》第三版（30万字 578页）：https://t.zsxq.com/06nEmyNJu
+
+Spring核心技术总结：https://t.zsxq.com/06Ia66ybu
+
+ThreadLocal源码分析：https://t.zsxq.com/06fAiiI6A
+
+订单支付那些事：https://t.zsxq.com/06nqFEQF6
+
+JCU源码深度分析：AQS：https://t.zsxq.com/06MFaey33
+
+如何实现一个任务调度系统：https://t.zsxq.com/06b6IMna6
+
+线程池的相关问题：https://t.zsxq.com/06jmuRJEI
+
+用理论+代码案例 来 理解 DDD：https://t.zsxq.com/06uzzFaqN
+
+java开发该如何准备面试：https://t.zsxq.com/06nUBUzZ3
+
+项目如何包装？https://t.zsxq.com/062naYRnM
+
+OpenFeign源码分析：https://t.zsxq.com/zRZrbqV
+
+Nacos作为配置中心的与案例分析和源码分析：https://t.zsxq.com/QJU7urZ
+
+两个简历模板：https://t.zsxq.com/7EEqbUb
+
+Nacos 注册中心源码分析：https://t.zsxq.com/r7i6Qrf
+
+Nacos注册中心原理：https://t.zsxq.com/UnEiiqn
+
+Spring Cloud Alibaba 系 之Nacos 架构与原理：https://t.zsxq.com/r3Zz7qB
+
+测试工程师的简历模板：https://t.zsxq.com/q3nUBem
+
+五万字 分布式面试题和答案(完整版).：https://t.zsxq.com/vJIufUN
+
+Java版数据结构与算法：https://t.zsxq.com/aurzfeu
+
+秒杀系统的如何设计：https://t.zsxq.com/zRNfyjM
+
+Java编程思想：https://t.zsxq.com/IeiaMBy
+
+分布式系统架构落地与瓶颈突破：https://t.zsxq.com/fQvRZfM
+
+MyBatis源码分析流程图：https://t.zsxq.com/06YBEIimU
+
+系统设计相关面试题：https://t.zsxq.com/067Uj2VB2
+
+简历上写了“电商项目”，面试官通常会怎么问？：https://t.zsxq.com/06MJEUvNv
+
+工作8年的普通专科生程序员的一些感悟：https://t.zsxq.com/06MrN3RjU
+
+如何写简历（附模板）：https://articles.zsxq.com/id_fghmo6niqiv1.html
+
+一分钟的自我介绍：https://t.zsxq.com/06VFAEyBi
+
+快速复习HTTP协议：https://t.zsxq.com/06ZBqfyjQ
+
+MySQL所有命令笔记：https://t.zsxq.com/066uvZFmE
+
+HR 问：你的期望薪资是多少？你们怎么回答？：https://t.zsxq.com/066am2vVV
+
+面试官最不喜欢听到的“离职原因”？https://t.zsxq.com/06UZ3JyfU
+
+JVM常见线上问题解决方法和实战问题排查：https://wx.zsxq.com/dweb2/index/topic_detail/585225412581144
+
+面试时什么不能说？：https://articles.zsxq.com/id_kxh76wab2w5s.html
+
+ApplicationContext体系：https://t.zsxq.com/06QNvnEyn
+
+简历修改办法：https://articles.zsxq.com/id_w9n6tz59ekpp.html
+
+面试官想从自我介绍中获得什么信息？：https://t.zsxq.com/06FyvV3fQ
+
+Integer核心源码分析（视频）：https://t.zsxq.com/06IyJu3rN
+
+JVM、JDK源码分析：https://articles.zsxq.com/id_mx4iln64mzj5.html
+
+如何将我们的老项目升级为微服务项目：https://t.zsxq.com/067QZfY7a
+
+算法概览：https://wx.zsxq.com/dweb2/index/topic_detail/418524542141188
+
+面试技巧（适合3年以内的朋友）：https://t.zsxq.com/06AMjybyv
+
+并发工具如何使用？https://t.zsxq.com/06AYZ3j27
+
+JVM优化入门篇：https://t.zsxq.com/067uzfemy
+
+SpringBoot + ShardingSphere分库分表实战：https://t.zsxq.com/06naUj2FM
+
+常用的分布式事务解决方案：https://t.zsxq.com/06YZ3R3rb
+
+设计一个分布式锁，要注意哪些问题？：https://t.zsxq.com/06AAUn66E
+
+Spring Boot 源码深入分析：https://t.zsxq.com/06jy3neaU
+
+初入职场注意事项：https://t.zsxq.com/06rrRNneE
+
+技术人行走职场的建议：https://t.zsxq.com/06VvByRZR
+
+巧用JS 爬取数据：https://t.zsxq.com/06IYjEiEY
+
+MyBatis源码分析：https://t.zsxq.com/06Iim2f6A
+
+Java后端核心知识总结：https://t.zsxq.com/06qzFeUZf
+
+项目架构值演变过程：https://t.zsxq.com/06rZVrneq
+
+RabbitMQ入门：https://t.zsxq.com/06BaEIMbq
+
+后端如何学习？（不同工作年限的学习路线）：https://t.zsxq.com/06QbU7qbI
+
+缓存数据一致性解决方案：https://t.zsxq.com/06QR3zjQ7
+
+Nacos手把手教程：https://t.zsxq.com/06VJyRVzN
+
+分布式系列文章（包括负载均衡、缓存和数据库一致性问题、分布式锁等内容）：https://t.zsxq.com/06YNFuNrn
+
+面试连环炮系列（包括JVM、MySQL、Redis、并发编程、Dubbo、Zookeeper等连环炮）：https://t.zsxq.com/06YNb2JaE
+
+面试谈薪的四个关键点：https://t.zsxq.com/06IURRNZB
+
+自我介绍的5句话公式：https://t.zsxq.com/06qzVRBQV
+
+为什么投了很多简历却没有面试邀请？：https://t.zsxq.com/06na6Imi6
+
+Spring 源码系列：https://t.zsxq.com/06qRZ3jmq
+
+Java学习零基础到架构师学习路线：https://t.zsxq.com/06qzFaeeM
+
+蚂蚁金服面试： P6+ offer 面经分享：https://t.zsxq.com/06yvf62Fm
+
+ConcurrentHashMap 源码分析（JDK8）：https://t.zsxq.com/06MzJaii2
+
+MySQL 索引及优化实战：https://t.zsxq.com/06YZBAAAY
+
+如何与他人拉开差距（面试加分项）：https://t.zsxq.com/06EUzvvni
+
+程序员的职业发展路线：https://t.zsxq.com/06qvNjIyv
+
+Java开发 0 基础学习路线：https://t.zsxq.com/06Q7i2jyB
+
+程序员必备的8大排序算法：https://t.zsxq.com/06AYN76my
+
+Mybatis-Plus学习笔记：https://t.zsxq.com/06ynujuZV
+
+前端面试必读文章：https://t.zsxq.com/06FUBaaqN
+
+JVM 调优指南(理论+实战)：https://t.zsxq.com/06yNr7UrZ
+
+Shell脚本入门：https://t.zsxq.com/06RRRjIm2
+
+并发编程（死锁）：https://t.zsxq.com/06NZNvZjU
+
+Maven 手把手教程：https://t.zsxq.com/06jyrvv7A
+
+Nginx入门：https://t.zsxq.com/06Nbmeeyn
+
+Redis持久化(理论+代码)：https://t.zsxq.com/062j6Ee2f
+
+JVM运行时数据区详情：https://t.zsxq.com/06M3JImuj
+
+JVM必须掌握的9个问题(OOM和SOF)：https://t.zsxq.com/062zbQVNF
+
+docker命令汇总+实战：https://t.zsxq.com/06JaEAmuN
+
+Docker手把手入门教程：https://t.zsxq.com/06aiYRfEU
+
+zookeeper入门指南：https://t.zsxq.com/06qVVZVZB
+
+3万字详解Java 集合：https://t.zsxq.com/06Bq7QRVb
+
+分布式技术面试题和答案（5万字）：https://t.zsxq.com/06Z76UFIq
+
+最全MySQL面试题：https://t.zsxq.com/06FEEMnYJ
+
+布式锁的三种实现方式：https://t.zsxq.com/06n6eauvr
+
+Eureka自我保护机制是什么?：https://articles.zsxq.com/id_pwh8wsu1bwku.html
+
+MongoDB 入门实战：https://t.zsxq.com/06JAeAEmQ
+
+快速入门 项目管理工具——Maven：https://t.zsxq.com/06EEeYJ6u
+
+分布式技术相关技术点：https://t.zsxq.com/06FmM3ZvZ
+
+SQL练习小册子（SQL笔试题）：https://t.zsxq.com/06fyRz3f2
+
+Jenkins （手把手教程）：https://t.zsxq.com/06uVrz3BQ
+
+Linux命令汇总：https://t.zsxq.com/06J23naEI
+
+分布式技术（基础篇、事务篇、服务篇）：https://t.zsxq.com/06FUZRzvj、https://t.zsxq.com/06fyjYJu7、https://t.zsxq.com/06ZNjuVv7
+
+如何选择最优索引？：https://t.zsxq.com/06Y7iuVRR
+
+Java 反射机制知识点：https://t.zsxq.com/06mybMbiq
+
+单例模式：https://t.zsxq.com/06nEEEuBM
+
+线上操作与线上问题排查实战：https://articles.zsxq.com/id_xw4s9e6avghf.html
+
+HTTP核心知识总结：https://t.zsxq.com/06IiYzRjq
+
+分布式熔断应用实战：https://t.zsxq.com/06ZRRF6eu
+
+Mybatis源码深入分析：https://t.zsxq.com/06faIqnmm
+
+String知识点：https://t.zsxq.com/06Aa272FY
+
+java基础知识脑图：https://t.zsxq.com/06MRnQJ6M
+
+Linux学习笔记思维导图：https://t.zsxq.com/06Ea66AeQ
+
+架构师成长手册：https://t.zsxq.com/06nURNnme
+
+电子书汇总：https://t.zsxq.com/06jIUzZbA
+
+程序员职业发展指南：https://t.zsxq.com/066UzNZzN
+
+JUC知识总结脑图：https://t.zsxq.com/06qJmQjIM
+
+Spring cloud 学习笔记思维导图：https://t.zsxq.com/06Bm2jQzf
+
+50多种SQL优化方式：https://articles.zsxq.com/id_0mcjv20e5jno.html
+
+并发编程总结脑图：https://t.zsxq.com/06EAqZnUr
+
+Spring面试题 100题：https://t.zsxq.com/063BA2feU、https://t.zsxq.com/06IAYvBMb
+
+Redis 实战场景详解：https://t.zsxq.com/063VzBe2N
+
+MySQL 笔记：https://t.zsxq.com/06iYfU3zr、https://t.zsxq.com/06jqvVNr、https://t.zsxq.com/06Jieiy3v
+
+面试后的录用决策流程：https://articles.zsxq.com/id_s7woimivwkkb.html
+
+tomcat相关知识、性能优化的思维导图：https://t.zsxq.com/06RVnMnyf
 
