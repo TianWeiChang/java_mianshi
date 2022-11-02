@@ -28,7 +28,6 @@
 ## 面经
 
 - [小米Java实习面试（通过）](https://mp.weixin.qq.com/s/RoisEgwDRVITUY5N7UqrSQ)
-- 
 - [面试官：说一说你做过什么项目？](http://mp.weixin.qq.com/s?__biz=MzU4MDM3MDgyMA==&mid=2247505545&idx=1&sn=4f0946996e198bcc7180a3337ce64257&chksm=fd557e62ca22f7749f052e443e78be93e0479cc39c253c30eef6ad54b255dfbef8d8f42e5843#rd) 
 
 - [熬夜总结的面试心得：5个重点，网友表示很及时！](http://mp.weixin.qq.com/s?__biz=MzU4MDM3MDgyMA==&mid=2247509441&idx=1&sn=2c1b7fe1a5814d712c343e74cfbe5af8&chksm=fd550d2aca22843ccae97a5c9698c0894e46533b9f3f4ffa7ce491f3decf377483512e5706f7#rd) 
